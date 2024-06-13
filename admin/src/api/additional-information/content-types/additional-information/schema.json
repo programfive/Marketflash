@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "additional_informations",
+  "info": {
+    "singularName": "additional-information",
+    "pluralName": "additional-informations",
+    "displayName": "Additional-information"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "marca": {
+      "type": "text"
+    },
+    "disponibilidad": {
+      "type": "text"
+    },
+    "tipoProducto": {
+      "type": "text"
+    },
+    "product_id": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::product.product",
+      "inversedBy": "additional_information"
+    }
+  }
+}

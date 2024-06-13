@@ -1,0 +1,108 @@
+
+.loginWrapper {
+  padding: 75px 0px;
+  background: #f1f1f1;
+}
+
+.loginWrapper .card {
+  width: 650px;
+  margin: auto;
+  border:none;
+  background-color: white;
+
+}
+.formLoader {
+  position: absolute !important;
+  background: rgba(255, 255, 255, 0.5) !important;
+}
+.cl-internal-phfxlr {
+  width: 100%; 
+  border: none;
+}
+.cl-internal-qk5yrq{
+  width: 100%;
+  max-width: 100%;
+  padding: 0;
+  border: none;
+  box-shadow:none;
+}
+.cl-internal-180wb59{
+  display: none;
+}
+.cl-internal-4x6jej{
+  background:none;
+}
+.cl-internal-1p733cp{
+  box-shadow: none;
+}
+.cl-headerTitle{
+  font-weight: 500;
+  font-size: 45px;
+}
+.cl-headerSubtitle {
+  font-weight: 400;
+  font-size: 22px;
+}
+.loginWrapper .card button {
+  padding: 20px 25px !important;
+}
+.cl-internal-2gzuzc {
+  width: 24px;
+}
+.cl-internal-xexz24 {
+  font-size: 22px;
+}
+.cl-internal-1c7fjmu {
+  font-size: 22px;
+}
+.cl-internal-1gblaxi {
+  padding: 26px 0.75rem;
+}
+.loginWrapper .card input {
+  padding: 26px 12px;
+  font-size: 22px !important;
+}
+.cl-internal-wl6txu{
+  font-size: 20px !important;
+  margin-top: 12px;
+}
+.cl-internal-rk8nkz {
+  font-size: 18px; 
+}
+.cl-internal-1sany6l {
+  width: 20px; 
+  height: 20px;
+}
+.cl-internal-kyvqj0 {
+  font-weight: 400;
+  font-size: 22px;
+}
+.cl-footerActionLink {
+  font-weight: 400;
+  font-size: 22px;
+}
+.cl-internal-2iusy0{
+  font-size: 22px;
+}
+.cl-internal-1c4ikgf {
+  display: none;
+}
+.cl-internal-oaq42g {
+  width: 24px;
+  height: 24px;
+}
+.cl-internal-vw106x,.cl-formFieldInfoText {
+  font-size: 18px !important;
+}
+.cl-internal-4x6jej {
+
+  padding-bottom: 1.5rem;
+}
+cl-internal-objb41 {
+  display: flex !important;
+}
+@media (max-width: 30em) {
+      .cl-internal-objb41 {
+          display: flex !important;
+      }
+  }

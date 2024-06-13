@@ -1,0 +1,27 @@
+.bannerSection {
+  padding: 25px 0px;
+}
+
+.bannerSection .box {
+  overflow: hidden;
+  border-radius: 15px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.bannerSection .box img {
+  height: auto !important;
+}
+
+.bannerSection .box:hover img {
+  transform: scale(1.1);
+}
+.bannerSection .box .box-card-text{
+  position: absolute;
+  z-index: 10;
+  padding: 32px;
+
+}
+.bannerSection .box .box-card-text p{
+font-size: 25px;
+}
